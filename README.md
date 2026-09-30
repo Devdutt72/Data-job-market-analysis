@@ -19,7 +19,7 @@ An interactive Excel dashboard that shows **median salaries for data-related job
 |---|---|
 | Project | Excel Salary Dashboard |
 | Dashboard file | [`Region_wise_oppurtunities.xlsx`](Region_wise_oppurtunities.xlsx) |
-| Data | Real-world data science job information from 2023 (from my Excel course) |
+| Data | Real-world data science job information 
 | Main Excel skills | Charts, formulas and functions, data validation |
 | Inputs the user controls | Job Title, Country, Type |
 | Output | Median salary for the selected combination |
