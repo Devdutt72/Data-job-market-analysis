@@ -173,4 +173,4 @@ The filtered lists are applied as data validation rules (Data tab) to the **Job 
 
 ## 📝 Conclusion
 
-I created this dashboard to show salary trends across various data-related job titles. Using data from my Excel course, the dashboard lets users make informed decisions about their career paths and explore how location and job type influence salaries.
+I created this dashboard to show salary trends across various data-related job titles. The dashboard lets users make informed decisions about their career paths and explore how location and job type influence salaries.
